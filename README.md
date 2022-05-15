@@ -5,5 +5,5 @@ We will also try to predict future stock prices using **ARIMA** models.
 
 ## Getting Started
 ```
-pip install pandas, numpy, matplotlib, seaborn, sklearn, pandas-datareader, statsmodels, requests-cache
+pip install pandas, numpy, matplotlib, seaborn, sklearn, yfinance, pandas-datareader, statsmodels, requests-cache
 ```
